@@ -1,0 +1,12 @@
+bin/
+obj/
+*.user
+.vs/
+*.db-shm
+*.db-wal
+
+# lock file sementara Microsoft Office
+~$*
+
+# hasil generate yang bisa dibuat ulang dari sumbernya
+LANGKAH-SCREENSHOT.html
