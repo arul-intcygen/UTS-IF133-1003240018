@@ -10,3 +10,12 @@ obj/
 
 # hasil generate yang bisa dibuat ulang dari sumbernya
 LANGKAH-SCREENSHOT.html
+
+# catatan & alat kerja pribadi (tidak untuk repository)
+PANDUAN-PENGUMPULAN.md
+LANGKAH-SCREENSHOT.md
+LANGKAH-SCREENSHOT.pdf
+buat-panduan.py
+buat-laporan.py
+UTS_IF133_1003240018_SahrulSolihin.docx
+UTS_IF133_1003240018_SahrulSolihin.pdf
